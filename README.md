@@ -1,3 +1,3 @@
 html-css-resp-wannabe
 ===
-Consegna esercizio "Responsive Wannabe" (WIP)
+Consegna esercizio "Responsive Wannabe"
