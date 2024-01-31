@@ -149,10 +149,15 @@ img {
     div .col{
         width: 100% !important;
         margin: 20px auto;
+
+    }
+
+    .steps, .why-us{
+        margin: 0 auto;
+        padding: 25px 0;
     }
 
     .why-us{
-        height: max-content;
         background-color: rgb(44, 43, 43);
     }
 }
